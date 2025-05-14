@@ -28,8 +28,4 @@ Olá! Eu sou Bernardo Sobral ✌️
   <div style="display: inline-block;">
     <img align="center" alt="React" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   </div>
-  <div style="display: inline-block;">
-    <img align="center" alt="React" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  </div>
- 
-</div>
+
