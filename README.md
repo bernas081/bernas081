@@ -7,7 +7,7 @@ Olá! Eu sou Bernardo Sobral ✌️
 
 ![Bernardo GitHub stats](https://github-readme-stats.vercel.app/api?username=bernas081&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernas081_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernas081)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias usadas:
@@ -26,9 +26,10 @@ Olá! Eu sou Bernardo Sobral ✌️
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </div>
   <div style="display: inline-block;">
-    <img align="center" alt="React" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="React" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   </div>
   <div style="display: inline-block;">
-    <img align="center" alt="Node.js" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img align="center" alt="React" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   </div>
+ 
 </div>
