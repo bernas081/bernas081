@@ -1,4 +1,4 @@
-##Olá meu nome é Bernardo Sobral ✌️
+Olá! Eu sou Bernardo Sobral ✌️
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-sobral-161052b9/)
